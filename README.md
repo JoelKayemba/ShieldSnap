@@ -35,10 +35,10 @@ L’image reste parfaitement visible à l’œil humain, mais devient floue, dé
 ### 📌 **Prérequis**
 - [Node.js](https://nodejs.org/) installé sur votre machine.
 - [Expo](https://expo.dev/) installé pour le développement mobile.  
-- Un serveur backend Node.js avec Express et Sharp.
+- Un serveur backend Node.js avec Express et Sharp (**ShieldSnap-backend**).
 
 ### 📥 **Installation**
-#### 1️⃣ **Cloner le projet**
+#### 1️⃣ **Cloner le projet frontend**
 ```bash
 git clone https://github.com/ton-repo/shieldsnap.git
 cd shieldsnap
