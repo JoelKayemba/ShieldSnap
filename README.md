@@ -40,5 +40,5 @@ L’image reste parfaitement visible à l’œil humain, mais devient floue, dé
 ### 📥 **Installation**
 #### 1️⃣ **Cloner le projet frontend**
 ```bash
-git clone https://github.com/ton-repo/shieldsnap.git
-cd shieldsnap
+git clone https://github.com/JoelKayemba/ShielSnap-backend
+
